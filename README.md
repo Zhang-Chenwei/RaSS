@@ -1,2 +1,2 @@
-# ZJUSSet
-ZJUSSet: A Novel 3D Semantic Segmentation Dataset with 4D Radar
+# RaSS
+RaSS: 4D Radar Point Cloud Semantic Segmentation with Cross-Modal Knowledge Distillation
